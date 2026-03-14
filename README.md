@@ -1,5 +1,7 @@
 # CS50 SQL Coursework
 
+![CS50 SQL](certificate.png)
+
 This repository contains my solutions and exercises for CS50’s Introduction to Databases with SQL.
 
 Most folders are practice problem sets and short SQL tasks. The only section documented in detail below is the final project.
